@@ -59,7 +59,7 @@ public class Main {
         System.out.println(Arrays.toString(arr));
     }
 
-    // created by me include sort()
+    // created by me , include sort() and creates new local array
     public static void decreasingOrder(int[] arr){
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
